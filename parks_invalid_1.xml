@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Parks>
+	<!-- Park 1 -->
+	<Park type="National">
+		<Owner>National Park Service</Owner>
+		<Name>Yellowstone National Park</Name>
+		<Reservation>
+			<Address>123 Park Rd, Yellowstone</Address>
+			<Address>456 Reservation Ave, Yellowstone</Address>
+			<Url>https://www.nps.gov/yell/index.htm</Url>
+		</Reservation>
+		<NeighboringStates>Wyoming</NeighboringStates>
+		<NeighboringStates>Montana</NeighboringStates>
+		<NeighboringStates>Idaho</NeighboringStates>
+		<EstablishedIn Founder="John Smith">1872</EstablishedIn>
+	</Park>
+
+	<!-- Park 2 -->
+	<Park>
+		<Owner>State Park Service</Owner>
+		<Name>Yosemite National Park</Name>
+		<Reservation>
+			<Address>789 Park Rd, Yosemite</Address>
+			<Url>https://www.nps.gov/yose/index.htm</Url>
+		</Reservation>
+		<NeighboringStates>California</NeighboringStates>
+		<EstablishedIn>1890</EstablishedIn>
+	</Park>
+
+	<!-- Park 3 -->
+	<Park type="National">
+		<Owner>National Park Service</Owner>
+		<Name>Grand Teton National Park</Name>
+		<Reservation>
+			<Address>123 Mountain View Dr, Grand Teton</Address>
+			<Url>https://www.nps.gov/grte/index.htm</Url>
+		</Reservation>
+		<NeighboringStates>Wyoming</NeighboringStates>
+		<EstablishedIn Founder="Alice Johnson">1929</EstablishedIn>
+	</Park>
+
+	<!-- Park 4 -->
+	<Park type="State">
+		<Owner>State Park Service</Owner>
+		<Name>Zion National Park</Name>
+		<Reservation>
+			<Address>789 Canyon Rd, Zion</Address>
+			<Url>https://www.nps.gov/zion/index.htm</Url>
+		</Reservation>
+		<NeighboringStates>Utah</NeighboringStates>
+		<EstablishedIn Founder="David Williams">1919</EstablishedIn>
+	</Park>
+
+	<!-- Park 5 -->
+	<Park type="National">
+		<Owner>National Park Service</Owner>
+		<Name>Acadia National Park</Name>
+		<Reservation>
+			<Address>123 Coastal Hwy, Acadia</Address>
+			<Address>456 Parkside Ave, Acadia</Address>
+			<Url>https://www.nps.gov/acad/index.htm</Url>
+		</Reservation>
+		<NeighboringStates>Maine</NeighboringStates>
+		<EstablishedIn Founder="Sarah Davis">1919</EstablishedIn>
+	</Park>
+
+	<!-- Park 6 -->
+	<Park type="State">
+		<Owner>State Park Service</Owner>
+		<Name>Arches National Park</Name>
+		<Reservation>
+			<Address>789 Arch Rd, Arches</Address>
+			<Url>https://www.nps.gov/arch/index.htm</Url>
+		</Reservation>
+		<NeighboringStates>Utah</NeighboringStates>
+		<EstablishedIn>1971</EstablishedIn>
+	</Park>
+
+	<!-- Park 7 -->
+	<Park type="National">
+		<Owner>National Park Service</Owner>
+		<Name>Olympic National Park</Name>
+		<Reservation>
+			<Address>123 Rainforest Way, Olympic</Address>
+			<Url>https://www.nps.gov/olym/index.htm</Url>
+		</Reservation>
+		<NeighboringStates>Washington</NeighboringStates>
+		<EstablishedIn Founder="Michael Johnson">1938</EstablishedIn>
+	</Park>
+
+	<!-- Park 8 -->
+	<Park type="State">
+		<Owner>State Park Service</Owner>
+		<Name>Bryce Canyon National Park</Name>
+		<Reservation>
+			<Address>789 Hoodoos Dr, Bryce Canyon</Address>
+			<Url>https://www.nps.gov/brca/index.htm</Url>
+		</Reservation>
+		<NeighboringStates>Utah</NeighboringStates>
+		<EstablishedIn>1928</EstablishedIn>
+	</Park>
+
+	<!-- Park 9 -->
+	<Park type="National">
+		<Owner>National Park Service</Owner>
+		<Name>Canyonlands National Park</Name>
+		<Reservation>
+			<Address>123 Canyon Rim Rd, Canyonlands</Address>
+			<Url>https://www.nps.gov/cany/index.htm</Url>
+		</Reservation>
+		<NeighboringStates>Utah</NeighboringStates>
+		<EstablishedIn Founder="Emily Parker">1964</EstablishedIn>
+	</Park>
+
+	<!-- Park 10 -->
+	<Park type="National">
+		<Owner>National Park Service</Owner>
+		<Name>Great Sand Dunes National Park</Name>
+		<Reservation>
+			<Address>123 Sand Dune Dr, Great Sand Dunes</Address>
+			<Url>https://www.nps.gov/grsa/index.htm</Url>
+		</Reservation>
+		<NeighboringStates>Colorado</NeighboringStates>
+		<EstablishedIn Founder="Robert White">2004</EstablishedIn>
+	</Park>
+</Parks>
